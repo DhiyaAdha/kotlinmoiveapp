@@ -3,10 +3,9 @@ package com.example.movaapdhabwa
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
-class SplashScreenActivity : AppCompatActivity() {
-
+class SignInActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_splash_screen)
+        setContentView(R.layout.activity_sign_in)
     }
 }
