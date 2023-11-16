@@ -10,4 +10,8 @@
     
 <!-- custom -->
     <color name="colorBlue">#14153D</color>
+    <color name="colorPink">#FF2667</color>
+    <color name="colorBlueGery">#292A50</color>
+    <color name="colorWhite">#FFFFFF</color>
+
 </resources>
