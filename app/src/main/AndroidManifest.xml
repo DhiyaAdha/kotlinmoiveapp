@@ -21,9 +21,9 @@
         <activity android:name=".onboarding.OnBoardingOneActivity" />
         <activity android:name=".onboarding.OnBoardingTwoActivity" />
         <activity android:name=".onboarding.OnBoardingTreeActivity" />
-        <activity android:name=".SignInActivity" />
-        <activity android:name=".SignUpActivity" />
-        <activity android:name=".SignUpPhotoscreenActivity" />
+        <activity android:name=".sign.SignInActivity" />
+        <activity android:name=".sign.SignUpActivity" />
+        <activity android:name=".sign.SignUpPhotoscreenActivity" />
         <activity
             android:name=".SplashScreenActivity"
             android:exported="true"

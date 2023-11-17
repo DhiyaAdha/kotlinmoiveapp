@@ -98,14 +98,14 @@
         app:layout_constraintTop_toBottomOf="@+id/textView17">
 
         <ImageView
-            android:layout_width="odp"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_marginRight="20dp"
             android:layout_weight="1"
             android:src="@drawable/shape_line_blue_grey" />
 
         <ImageView
-            android:layout_width="odp"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:src="@drawable/shape_line_blue_grey" />
@@ -116,17 +116,17 @@
             android:layout_weight="3"
             android:gravity="center"
             android:text="A"
-            android:textColor="@color/white"
+            android:textColor="@color/white"/>
 
         <ImageView
-            android:layout_width="odp"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_marginRight="20dp"
             android:layout_weight="1"
             android:src="@drawable/shape_line_blue_grey" />
 
         <ImageView
-            android:layout_width="odp"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:src="@drawable/shape_line_blue_grey" />
@@ -146,14 +146,14 @@
         app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
 
         <ImageView
-            android:layout_width="odp"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_marginRight="20dp"
             android:layout_weight="1"
             android:src="@drawable/shape_line_blue_grey" />
 
         <ImageView
-            android:layout_width="odp"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:src="@drawable/shape_line_blue_grey" />
@@ -164,17 +164,17 @@
             android:layout_weight="3"
             android:gravity="center"
             android:text="B"
-            android:textColor="@color/white"
+            android:textColor="@color/white"/>
 
         <ImageView
-            android:layout_width="odp"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_marginRight="20dp"
             android:layout_weight="1"
             android:src="@drawable/shape_line_blue_grey" />
 
         <ImageView
-            android:layout_width="odp"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:src="@drawable/shape_line_blue_grey" />

@@ -14,5 +14,6 @@
     <color name="colorBlueGery">#292A50</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorWhiteGrey">#E6CCC8C8</color>
+    <color name="green_success">#03C988</color>
 
 </resources>
